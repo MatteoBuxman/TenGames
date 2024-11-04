@@ -1,0 +1,75 @@
+[
+  {
+    "index": 1,
+    "game": "Money Train",
+    "crypto": "bitcoin",
+    "winAmount": 0.87654
+  },
+  {
+    "index": 2,
+    "game": "Color Champion",
+    "crypto": "ethereum",
+    "winAmount": 0.0789
+  },
+  {
+    "index": 3,
+    "game": "Winner's Chess",
+    "crypto": "bitcoin",
+    "winAmount": 0.00895
+  },
+  {
+    "index": 4,
+    "game": "King of Vocabulary",
+    "crypto": "cardano",
+    "winAmount": 24.86574
+  },
+  {
+    "index": 5,
+    "game": "King of Vocabulary",
+    "crypto": "solana",
+    "winAmount": 0.87654
+  },
+  {
+    "index": 6,
+    "game": "Color Champion",
+    "crypto": "USDC",
+    "winAmount": 1096.56
+  },
+  {
+    "index": 7,
+    "game": "Money Train",
+    "crypto": "bitcoin",
+    "winAmount": 0.56
+  },
+  {
+    "index": 8,
+    "game": "Money Train",
+    "crypto": "cardano",
+    "winAmount": 42457.95
+  },
+
+  {
+    "index": 9,
+    "game": "Money Train",
+    "crypto": "bitcoin",
+    "winAmount": 0.87654
+  },
+  {
+    "index": 10,
+    "game": "Color Champion",
+    "crypto": "ethereum",
+    "winAmount": 0.0789
+  },
+  {
+    "index": 11,
+    "game": "Winner's Chess",
+    "crypto": "bitcoin",
+    "winAmount": 0.00895
+  },
+  {
+    "index": 12,
+    "game": "King of Vocabulary",
+    "crypto": "cardano",
+    "winAmount": 24.86574
+  }
+]
